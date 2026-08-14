@@ -135,6 +135,8 @@ Get-ADUser "username" -Properties LockedOut | Select-Object Name, LockedOut
 
 ---
 ## Lab Topology
+<img width="2720" height="2320" alt="AD-Lab-Topology" src="https://github.com/user-attachments/assets/33da202a-3d9a-48e3-bbc9-af223397f940" />
+
 
 | Name | Description |
 |---|---|
