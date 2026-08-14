@@ -137,13 +137,10 @@ Get-ADUser "username" -Properties LockedOut | Select-Object Name, LockedOut
 
 ## Lab Topology
 
-![AD Lab Topology]
-
+[AD Lab Topology](C:\Screenshots\AD-Lab-Topology.png)
 ---
 
-## Screenshots
-
-| Screenshot | Description |
+| Description |
 |---|---|
 | ![Server Manager] | Server Manager with AD DS role installed |
 | ![AD Users and Computers] | AD Users and Computers showing corp.local domain |
