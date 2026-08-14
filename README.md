@@ -135,14 +135,14 @@ Get-ADUser "username" -Properties LockedOut | Select-Object Name, LockedOut
 
 ---
 
-| Description |
-|---|
-| ![Server Manager] | Server Manager with AD DS role installed |
-| ![AD Users and Computers] | AD Users and Computers showing corp.local domain |
-| ![OU Structure] | Organizational Unit structure with all users |
-| ![GPO Results] | gpresult /r showing all GPOs applied |
-| ![Control Panel Blocked] | Control Panel blocked by GPO |
-| ![Bulk Users] | PowerShell bulk user creation output |
+| Name | Description |
+|---|---|
+| [Server Manager] | Server Manager with AD DS role installed |
+| [AD Users and Computers] | AD Users and Computers showing corp.local domain |
+| [OU Structure] | Organizational Unit structure with all users |
+| [GPO Results] | gpresult /r showing all GPOs applied |
+| [Control Panel Blocked] | Control Panel blocked by GPO |
+| [Bulk Users] | PowerShell bulk user creation output |
 
 ---
 
