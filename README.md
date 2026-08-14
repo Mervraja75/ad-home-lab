@@ -134,6 +134,7 @@ Get-ADUser "username" -Properties LockedOut | Select-Object Name, LockedOut
 | Restrict Control Panel | User | Blocks standard users from accessing Control Panel |
 
 ---
+## Lab Topology
 
 | Name | Description |
 |---|---|
